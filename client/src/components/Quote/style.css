@@ -1,0 +1,12 @@
+.quote-container {
+    margin: auto;
+    text-align: center;
+}
+
+#ron {
+    width: 50%;
+}
+
+.checked {
+    color: orange;
+  }
